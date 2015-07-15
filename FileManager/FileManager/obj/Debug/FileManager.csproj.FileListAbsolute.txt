@@ -1,0 +1,10 @@
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\bin\Debug\FileManager.exe
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.exe.licenses
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.exe
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
+c:\users\zelenov.alexey\documents\visual studio 2012\Projects\FileManager\FileManager\obj\Debug\FileManager.Views.MainFileManagerView.resources
